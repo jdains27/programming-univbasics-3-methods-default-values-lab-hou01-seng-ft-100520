@@ -5,4 +5,4 @@ def meal_choice (veg1, veg2, protein = "tofu")
   retuen meal
 end
 
-meal_choice ('carrots', 'string beans', 'lentils')
+#meal_choice ('carrots', 'string beans', 'lentils')
